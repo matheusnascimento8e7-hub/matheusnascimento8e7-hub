@@ -1,45 +1,24 @@
-## 👋 Olá, eu sou Matheus
+# Matheus Nascimento
+**Analista de Dados Júnior**
 
-**Analista de Dados Júnior**, utilizando dados para apoiar decisões
-operacionais, acompanhar indicadores e melhorar eficiência em ambientes
-de logística e produção.
+Uso dados para apoiar decisões operacionais, acompanhar indicadores e melhorar
+eficiência em ambientes de logística e produção. Experiência prática no chão
+de fábrica/operação que ajuda a transformar dado bruto em insight que o
+negócio realmente usa.
 
-Minha experiência operacional me permite transformar dados brutos em
-insights práticos para o negócio.
+## Stack
 
-### 🛠️ Ferramentas
-- Excel (análises, controles e validações)
-- SQL (consultas, agregações e KPIs)
-- Power BI (dashboards para acompanhamento de performance)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
----
+## Projetos
 
-### 📊 Projetos em destaque
+| Projeto | Descrição | Link |
+|---|---|---|
+| Análise de Indicadores – Banco Mundial | Exploração de dados socioeconômicos com SQL (agregações, joins, KPIs) | [repo](https://github.com/matheusnascimento8e7-hub/analise-dados-banco-mundial-sql) |
 
-🔹 **Análise de Indicadores – Banco Mundial (SQL)**  
-Análise exploratória de dados socioeconômicos utilizando SQL avançado.  
-👉 https://github.com/matheusnascimento8e7-hub/analise-dados-banco-mundial-sql
+## Contato
 
-🔹 **Dashboards de Performance Operacional (Power BI)**  
-Dashboards voltados à produtividade, SLAs e indicadores-chave.  
-👉 _em construção_
-
-🔹 **Análises Operacionais com Excel**  
-Controles, validações e análises aplicadas a cenários reais de operação.  
-👉 _em construção_
-
-
-<!--
-**matheusnascimento8e7-hub/matheusnascimento8e7-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-nascimento-51243a243)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusnascimento8e7@gmail.com)
